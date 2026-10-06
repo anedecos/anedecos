@@ -1,136 +1,54 @@
-<div align="center">
+# ANEDECOS
+**Andrés Echeverry · Technical Lead · Senior Software Engineer**
 
-# Andrés Echeverry
+[![Founder](https://img.shields.io/badge/Founder-Braincol-F97316?style=for-the-badge)](https://braincol.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](https://www.linkedin.com/in/aeecheverry)
+[![ANEDECOS](https://img.shields.io/badge/ANEDECOS-555555?style=for-the-badge&logo=x&logoColor=white)](https://x.com/anedecos)
 
-[![Founder](https://img.shields.io/badge/Founder-Braincol-F97316?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJDNi40OCAyIDIgNi40OCAyIDEyczQuNDggMTAgMTAgMTAgMTAtNC40OCAxMC0xMFMxNy41MiAyIDEyIDJ6bTAgMThjLTQuNDIgMC04LTMuNTgtOC04czMuNTgtOCA4LTggOCAzLjU4IDggOC0zLjU4IDgtOCA4eiIvPjwvc3ZnPg==)](https://github.com/braincol)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aeecheverry)
+Based in Barranquilla, Colombia. **8+ years building software and 3+ leading engineering teams.**
 
-<br>
+I work on backend systems, enterprise integrations and applied AI. I enjoy turning complex requirements into practical architecture and helping teams deliver it.
 
-*Building the security layer that AI agents need*
-*Starting with an open standard for secret protection*
+## Experience
 
+| Where | Focus |
+| :--- | :--- |
+| **Stefanini LATAM** · Technical Lead | Operations platforms, service integrations and AI-agent workflows |
+| **MillerKnoll** · Senior Full Stack Developer | Layout optimization from CAD data and 3D visualization |
+| **OmnixAI** · Senior Software Engineer | Distributed tracing, production ML and cloud architecture |
+| **Grupo Formax** · Backend Developer | Enterprise APIs and process automation |
 
-</div>
+## Stack
 
-<br>
+**Languages & backend**
 
-## What I'm Building
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-555555?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-I founded **[Braincol](https://github.com/braincol)** to solve a critical problem in the AI era: **agents that handle secrets shouldn't be able to leak them.**
+**Interfaces**
 
-<table>
-<tr>
-<td width="33%" align="center">
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-### Never-Leak Protocol
+**Data & infrastructure**
 
-[![Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue?style=flat-square)](https://github.com/braincol/never-leak-protocol)
-[![Open Standard](https://img.shields.io/badge/Type-Open_Standard-8B5CF6?style=flat-square)]()
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-Open standard defining **7 security levels** for AI agent secret governance.
+**Applied AI:** LLM agents · MCP · RAG · embeddings · anomaly detection  
+**Engineering:** distributed systems · observability · CI/CD · technical mentorship
 
-Aligned with OWASP, RFC 7519, RFC 9180.
+## Learning
 
-[View Spec &rarr;](https://github.com/braincol/never-leak-protocol)
-
-</td>
-<td width="33%" align="center">
-
-### Braincol Vault
-
-[![AGPLv3](https://img.shields.io/badge/License-AGPLv3-green?style=flat-square)](https://github.com/braincol/braincol-vault)
-[![Tests](https://img.shields.io/badge/Tests-2,445_passing-10B981?style=flat-square)]()
-
-First production-ready NL Protocol implementation. Agents **use secrets without seeing them.**
-
-X25519 + ChaCha20-Poly1305 encryption.
-
-[View Project &rarr;](https://github.com/braincol/braincol-vault)
-
-</td>
-<td width="33%" align="center">
-
-### Braincol Sentry
-
-[![BSAL](https://img.shields.io/badge/License-BSAL-orange?style=flat-square)](https://github.com/braincol/braincol-sentry)
-[![Platform](https://img.shields.io/badge/Type-Platform-F97316?style=flat-square)]()
-
-Agentic data intelligence platform for **financial monitoring.**
-
-Source-agnostic, multi-tenant, policy-driven.
-
-[View Project &rarr;](https://github.com/braincol/braincol-sentry)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-**Vault integrates with the agents developers use every day:**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Windsurf](https://img.shields.io/badge/Windsurf-06B6D4?style=flat-square)
-![Aider](https://img.shields.io/badge/Aider-14B8A6?style=flat-square)
-
-</div>
-
-<br>
-
-## Background
-
-> From a small town on Colombia's Caribbean coast. Got my first computer at 10 for being top student across local schools — that's when I fell in love with technology and never looked back.
-
-Earned a scholarship, studied Systems Engineering at **Universidad del Norte**, and have spent **8+ years** building scalable systems, leading engineering teams, and serving enterprise clients like **WOM**, **Entel**, **Oxxo**, **Transbank**, among others across Latin America.
-
-Now channeling everything I've learned into Braincol — because the AI agent ecosystem deserves security infrastructure built with the same rigor as the agents themselves.
-
-<br>
-
-## Tech Stack
-
-<div align="center">
-
-**Languages & Frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**AI & Security**
-
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP_Protocol-D97706?style=for-the-badge)
-![ChaCha20](https://img.shields.io/badge/ChaCha20--Poly1305-DC2626?style=for-the-badge)
-![X25519](https://img.shields.io/badge/X25519-7C3AED?style=for-the-badge)
-
-**Infrastructure & Data**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-</div>
-
-<br>
+Master's in Applied Artificial Intelligence at **Universidad de los Andes**, in progress.  
+Applied Data Science program at **MIT Professional Education**.
 
 ---
 
-<div align="center">
-
-**Open to conversations about AI agent security, open standards, and building from Latin America.**
-
-[![Braincol](https://img.shields.io/badge/Braincol-Visit_Org-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/braincol)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-91A69B?style=for-the-badge)](https://anedecos.github.io/portfolio/)
+[![Contributions](https://img.shields.io/badge/GitHub-Activity-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anedecos?tab=overview)
